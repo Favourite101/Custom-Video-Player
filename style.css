@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #345;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    display: flex;
+    justify-content: center;
+}
